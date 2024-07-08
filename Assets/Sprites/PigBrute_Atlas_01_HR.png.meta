@@ -1,0 +1,1117 @@
+fileFormatVersion: 2
+guid: 636e559863b154842892590efad41476
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PigBrute_Face_HR_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 919
+        width: 240
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfad899cce96c8e43acccc65ae82038c
+      internalID: 358500864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyelids_HR_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 996
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6927e2d812639c44bb1a269ef3a90ce5
+      internalID: 892285399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Face_HR_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 935
+        width: 151
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7a2e26ceb797745ab81b7d6392c62d
+      internalID: 1930505629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Tongue_HR_0
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 916
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999eca53248e4a24da80ddabec1116d0
+      internalID: -1859511504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Hat_HR_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 795
+        width: 187
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0603a0a8266102459d0a879784afb4f
+      internalID: -1991102795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Wind_HR
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 927
+        width: 120
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f6421a4e2145a4f8afc4aaaf191455
+      internalID: -1500323082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Hat_HR_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 282
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8df0f417917c58488a60011a2c91dec
+      internalID: -632584117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_HR_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 827
+        width: 114
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0862a812ad959ce419e00adf3013a7d5
+      internalID: 611739556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Hat_HR_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 620
+        width: 205
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6587ae33d5ae64459ff807a9fa74ace
+      internalID: 484807037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_HR_11
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 739
+        width: 142
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73790a37a28277849897feec724250af
+      internalID: 177944755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_HR_12
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 711
+        width: 286
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f38c57d24d005429715b09fdb89144
+      internalID: 1106680746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Face_HR_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 620
+        width: 148
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7167ab1fa8a7a0247ac11e0a8de017da
+      internalID: 1104921306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_HR_16
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 621
+        width: 165
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddefce9250e407046bda9cc165768ecb
+      internalID: -465764700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyelids_HR_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 651
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b8cb11f5675b84da56aae1c8d3f66e
+      internalID: -479878048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyebrow_HR_1
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 620
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b175a9578fae41bd331fcaf034c4c
+      internalID: -62268603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Weapon_HR_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 84
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1290224235ae240b3bc4c595ee6fcc
+      internalID: 1156399576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_HR_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 628
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f896eafa0bf87b44a0b3a9fd68c3e44
+      internalID: -1725872903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyelids_HR_0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 580
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5e014839122a345ab00d07c84286f2
+      internalID: 954104885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Weapon_HR_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 475
+        width: 309
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1167c84eb930049a6f90bde3d0095d
+      internalID: -484804553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_HR_23
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 475
+        width: 260
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b3a29111f1f0842b711ebc3e03744a
+      internalID: -457338992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyebrow_HR_2
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 575
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b85e39e875394abf2ea8dc242816b
+      internalID: 322578411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyebrow_HR_0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 542
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c46b7babaabb1a42886abf2e511fadb
+      internalID: 1542767939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_HR_26
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 475
+        width: 132
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88e7fce98f6b0c44a455684e034a8ea
+      internalID: 2013642554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_HR_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 408
+        width: 174
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0267c7f1a3b74439cb70c438f39ae9
+      internalID: 968439497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyeball_HR_0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 488
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f4a5e94ce1edb40aaf68f40e6fc0c0
+      internalID: 1569383826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyeball_HR_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 436
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e17572b2557abd4db20ab1eb1638567
+      internalID: 41234256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eye_HR_0
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 449
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a77a0dedea66de4482debfd97af658a
+      internalID: 60429168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Weapon_HR_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 303
+        width: 296
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1102a1b476dc2b642965e150a701d0ae
+      internalID: 206474906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eye_HR_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 437
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39baa07b3a20ac478657c2868c62f51
+      internalID: -392174368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Tongue_HR_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 346
+        width: 51
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbb928b492dad24788e56223a607894
+      internalID: -1477343219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyelids_HR_3
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 340
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7720b20f6bb802d42baff0d7d0bb0b05
+      internalID: 513555618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyelids_HR_4
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 340
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90764732d5cc7fe4682046a7f76fa916
+      internalID: 92795337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Hat_HR_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 312
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71302f9c50161ee478c0d722b3c0f1de
+      internalID: -872029786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Body_HR
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 0
+        width: 333
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7773df2449ead9f468035a9ce398e72e
+      internalID: -134769361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Face_HR_4
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 209
+        width: 173
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6c53006a12f6345a2ca4fff5fcdcb2
+      internalID: 2137586919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyelids_HR_5
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 300
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fbb2c224b1c9b43a75a935839b0d44
+      internalID: -1234172843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Face_HR_3
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 209
+        width: 174
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45428fbace51494ca3d80f068b820d1
+      internalID: -2141814423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Weapon_HR_0
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 307
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc9d34e91006b439923820c9e4f624
+      internalID: -1063625523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyelids_HR_2
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 152
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1962cfdc61eed7f49912b4adb09d75d7
+      internalID: -1858134699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyelids_HR_1
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 152
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c2f18e56cafb5458b89ebb2ed3cd3e
+      internalID: 1163102406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyebrow_HR_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 118
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f22134b1206ac24e83d0b0e0e5f32cc
+      internalID: -696547699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyeball_HR_2
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 60
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425e12c90f6ce7a44bdc1239eaddb72c
+      internalID: -1611851442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Eyeball_HR_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e843a23f5c57064b8add89ecc8af498
+      internalID: 721252142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Hat_HR_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 303
+        width: 347
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e806636d5e21244dace068da1144b4c
+      internalID: -2083624414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PigBrute_Atlas_01_HR_11: 177944755
+      PigBrute_Atlas_01_HR_12: 1106680746
+      PigBrute_Atlas_01_HR_14: 1166113353
+      PigBrute_Atlas_01_HR_15: 815832818
+      PigBrute_Atlas_01_HR_16: -465764700
+      PigBrute_Atlas_01_HR_20: -1725872903
+      PigBrute_Atlas_01_HR_23: -457338992
+      PigBrute_Atlas_01_HR_26: 2013642554
+      PigBrute_Atlas_01_HR_27: 968439497
+      PigBrute_Atlas_01_HR_3: 2025137692
+      PigBrute_Atlas_01_HR_45: 961226124
+      PigBrute_Atlas_01_HR_47: -280766143
+      PigBrute_Atlas_01_HR_48: -945996571
+      PigBrute_Atlas_01_HR_49: -1577669558
+      PigBrute_Atlas_01_HR_51: 710896344
+      PigBrute_Atlas_01_HR_6: 9208069
+      PigBrute_Atlas_01_HR_9: 611739556
+      PigBrute_Body_HR: -134769361
+      PigBrute_Eye_HR_0: 60429168
+      PigBrute_Eye_HR_1: -392174368
+      PigBrute_Eyeball_HR_0: 1569383826
+      PigBrute_Eyeball_HR_1: 41234256
+      PigBrute_Eyeball_HR_2: -1611851442
+      PigBrute_Eyeball_HR_3: 721252142
+      PigBrute_Eyebrow_HR_0: 1542767939
+      PigBrute_Eyebrow_HR_1: -62268603
+      PigBrute_Eyebrow_HR_2: 322578411
+      PigBrute_Eyebrow_HR_3: -696547699
+      PigBrute_Eyelids_HR_0: 954104885
+      PigBrute_Eyelids_HR_1: 1163102406
+      PigBrute_Eyelids_HR_2: -1858134699
+      PigBrute_Eyelids_HR_3: 513555618
+      PigBrute_Eyelids_HR_4: 92795337
+      PigBrute_Eyelids_HR_5: -1234172843
+      PigBrute_Eyelids_HR_6: -479878048
+      PigBrute_Eyelids_HR_7: 892285399
+      PigBrute_Face_HR_0: 358500864
+      PigBrute_Face_HR_1: 1930505629
+      PigBrute_Face_HR_2: 1104921306
+      PigBrute_Face_HR_3: -2141814423
+      PigBrute_Face_HR_4: 2137586919
+      PigBrute_Hat_HR_0: -632584117
+      PigBrute_Hat_HR_1: -1991102795
+      PigBrute_Hat_HR_2: 484807037
+      PigBrute_Hat_HR_3: -872029786
+      PigBrute_Hat_HR_4: -2083624414
+      PigBrute_Tongue_HR_0: -1859511504
+      PigBrute_Tongue_HR_1: -1477343219
+      PigBrute_Weapon_HR_0: -1063625523
+      PigBrute_Weapon_HR_1: 1156399576
+      PigBrute_Weapon_HR_2: 206474906
+      PigBrute_Weapon_HR_3: -484804553
+      PigBrute_Wind_HR: -1500323082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

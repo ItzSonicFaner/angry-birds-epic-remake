@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: 0affef21040d6514687a7a84380880f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 120
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666a525fa88608b4ca0c1229e070e805
+      internalID: 611265942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 458
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eba847ddde9864b816445f16373768
+      internalID: -62464618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 467
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728d359eb0b8b224ca8d7493a61156fa
+      internalID: 535826950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 398
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbe2bf3358f7bd4595a8abe3583ae20
+      internalID: -360381811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 463
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef389a8357626504496f518bf029e693
+      internalID: -183978360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 141
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b4d37a3aa1ee845b5c27a390c39b67
+      internalID: 1915471409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 414
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fde259116f01344f89e75343fd44f60
+      internalID: -729022433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 355
+        width: 143
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9420d184b4f7e0c498dab47958417c2d
+      internalID: 181035046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 41
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e19feac5f916f4ba411717d0caac2b
+      internalID: 2001883146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 290
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd763d86b05ae548891e95f9ffbd4c2
+      internalID: 1805318960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 311
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb859f107bdd084597c886629c3f68d
+      internalID: 224237881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 310
+        width: 83
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c57aff97abc80b45a70ffe6af69b25d
+      internalID: 1248720144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 310
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c4d74aef5e8d4458c68012e1b696a4
+      internalID: -687779099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 271
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ccb40f9218b8448804853cd486da7e
+      internalID: 1464420095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 237
+        width: 130
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff338463f0af9444ba1f2723ab7deeb
+      internalID: -824056839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_17
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 236
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99189574ac407f4988c8f5d364972c8
+      internalID: -1020317208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 203
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925725307e7d44045b798281d346993e
+      internalID: 2137781454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 245
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10052897ac72743478405b03e9c1f8f7
+      internalID: -1589779086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 224
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b199b5444d62245be7ac4e31c3014b
+      internalID: 1854445659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 151
+        width: 149
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ceda5b03ea4294cbf3335c44369a14
+      internalID: -685723208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 173
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6e972ea90ce874f8f22881525951dc
+      internalID: 258672266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 157
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae869fecc356be43815c3c45b49e6e5
+      internalID: -782289963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 166
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d353ec4b3d5e66e458d4a599e0ebc36e
+      internalID: -827257579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_25
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 104
+        width: 87
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fbfb558097afc4588d7ef97eaafc67
+      internalID: -505108902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_26
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 104
+        width: 88
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d9ccfef54aa60459af620fa4096753
+      internalID: -1000311296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 154
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8715cfb5a81552e44991fb1dc25ae2c7
+      internalID: -1081754678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_28
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4fa6df6924aaf42a3ab37d2db7b0e2
+      internalID: 1534829247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 498
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5118c8f76a3a2264fb355e5547058a7f
+      internalID: 255533584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 369
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33be3f315d54e04ab2a4b2247811b18
+      internalID: -1306962402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 310
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b0303f93472814db6509dd79500a55
+      internalID: 2089757649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_30
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 288
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94ebfa265c5b2545a5009e4bdb88469
+      internalID: 321447600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 151
+        width: 173
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5611be59dc1d6f84ca2cd00c0e8ac4a5
+      internalID: 1106961264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 238
+        width: 155
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618e79096c86ece41a85af6712083dad
+      internalID: 50264612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 218
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c5040172b742942b391d803c20f7ff
+      internalID: 2041472889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 218
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7281166fcc4295e40906135c766484eb
+      internalID: -1811572104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_35
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 30
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27da81992f8def4588b4e92cf2143fe
+      internalID: -587942947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_36
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 59
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0500c7683c1f98c4aad0d79d7d1a64e0
+      internalID: -1947144786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_37
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 76
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6ae35f78950f049afb5400987e1be6
+      internalID: 2100868915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_38
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38951ce65002eb947b2ea1b7873f6aba
+      internalID: 656413009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_39
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 171
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa3b6e4bd278e34f8be8a1a37a864f6
+      internalID: -1060373289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_40
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 170
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790d24eb6d321a145a8b254dcd7007da
+      internalID: 396668944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PigBrute_Atlas_01_LR_41
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 151
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ff89862d036a74dab595462539b3c0
+      internalID: 1305248472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PigBrute_Atlas_01_LR_0: 611265942
+      PigBrute_Atlas_01_LR_1: -62464618
+      PigBrute_Atlas_01_LR_10: 2001883146
+      PigBrute_Atlas_01_LR_11: 1805318960
+      PigBrute_Atlas_01_LR_12: 224237881
+      PigBrute_Atlas_01_LR_13: 1248720144
+      PigBrute_Atlas_01_LR_14: -687779099
+      PigBrute_Atlas_01_LR_15: 1464420095
+      PigBrute_Atlas_01_LR_16: -824056839
+      PigBrute_Atlas_01_LR_17: -1020317208
+      PigBrute_Atlas_01_LR_18: 2137781454
+      PigBrute_Atlas_01_LR_19: -1589779086
+      PigBrute_Atlas_01_LR_2: 535826950
+      PigBrute_Atlas_01_LR_20: 1854445659
+      PigBrute_Atlas_01_LR_21: -685723208
+      PigBrute_Atlas_01_LR_22: 258672266
+      PigBrute_Atlas_01_LR_23: -782289963
+      PigBrute_Atlas_01_LR_24: -827257579
+      PigBrute_Atlas_01_LR_25: -505108902
+      PigBrute_Atlas_01_LR_26: -1000311296
+      PigBrute_Atlas_01_LR_27: -1081754678
+      PigBrute_Atlas_01_LR_28: 1534829247
+      PigBrute_Atlas_01_LR_29: 255533584
+      PigBrute_Atlas_01_LR_3: -1306962402
+      PigBrute_Atlas_01_LR_30: 321447600
+      PigBrute_Atlas_01_LR_31: 1106961264
+      PigBrute_Atlas_01_LR_32: 50264612
+      PigBrute_Atlas_01_LR_33: 2041472889
+      PigBrute_Atlas_01_LR_34: -1811572104
+      PigBrute_Atlas_01_LR_35: -587942947
+      PigBrute_Atlas_01_LR_36: -1947144786
+      PigBrute_Atlas_01_LR_37: 2100868915
+      PigBrute_Atlas_01_LR_38: 656413009
+      PigBrute_Atlas_01_LR_39: -1060373289
+      PigBrute_Atlas_01_LR_4: -360381811
+      PigBrute_Atlas_01_LR_40: 396668944
+      PigBrute_Atlas_01_LR_41: 1305248472
+      PigBrute_Atlas_01_LR_5: 2089757649
+      PigBrute_Atlas_01_LR_6: -183978360
+      PigBrute_Atlas_01_LR_7: 1915471409
+      PigBrute_Atlas_01_LR_8: -729022433
+      PigBrute_Atlas_01_LR_9: 181035046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

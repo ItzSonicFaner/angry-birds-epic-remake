@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: e83c3fc237c04044fad4d971079fbb47
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red_Eyelids_HR_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 955
+        width: 160
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa2dda392abb7a4aab6a615b619e1ab
+      internalID: -1292727827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyelids_HR_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1003
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9291dab48c030dc4494045176ac83459
+      internalID: 1995436271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 958
+        width: 94
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705cd5fcc1e9e8f4cac66b72ecf87ff2
+      internalID: -1352997499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Knight_HR_Class_1_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 949
+        width: 114
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749919678dd7c334e9af90f7ff7311b5
+      internalID: -162562086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Beak_HR_0
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 973
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3786632931721345991031f798e5106
+      internalID: 988108377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyelids_HR_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 955
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e20252a76d8c940b81ed937fab9146
+      internalID: 1764008342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 933
+        width: 140
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f745c38224c9bf4d8592967ffbb54f5
+      internalID: -1562498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Shield_HR_0
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 878
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110eddd0337077a4bbf9ded3f3631201
+      internalID: 1381926902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Beak_HR_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 952
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f374fa20bea7d2d42a2b901862532723
+      internalID: 112874292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 758
+        width: 95
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f032f8230d5fecc45882b23ded50ca6d
+      internalID: 2003609364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_11
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 877
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0404a8257e65340a886fa1e0309d21
+      internalID: 651585155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 788
+        width: 186
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f0c21178e377b499142eee9003126f
+      internalID: 544660145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 752
+        width: 141
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7769b717fafcd6e42a88a8cc04f80417
+      internalID: -498100802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 756
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77be97ab6e09c9f4b803c442d4c1b719
+      internalID: -494198313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 784
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe5611f4435e6c429dbcf6e913befa5
+      internalID: -889156936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_17
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 784
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858c3fbe4828a294c87562db8f33a122
+      internalID: 2037403064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_18
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 834
+        width: 117
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c79066af012fd34fad053ade432eac2
+      internalID: -327899510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Beak_HR_2
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 835
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee18250be3616443b73fb4e058e5cc4
+      internalID: 2024863883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Knight_HR_Class_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597
+        width: 178
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8776e7476d04e7540bdb132824135805
+      internalID: -1990972084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Weapon_HR_0
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 728
+        width: 167
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df850dd51a45ebd4991a679764669009
+      internalID: 71353547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_23
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 773
+        width: 130
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6fbd20bd4a7d241ae6f098f7dce393
+      internalID: 718002361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 773
+        width: 120
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225d8fab153361246bc640c3a52a4926
+      internalID: -781714209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eye_HR_0
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 757
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc980c3c95aacc4e9c8d1f8b484d9fe
+      internalID: -929058811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_26
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 729
+        width: 187
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8971d39521ba3574cabdf6e32d7559a9
+      internalID: 1921352548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyeball_HR_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 725
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7ad2f38a973fb4d86cdf11549b0ed5
+      internalID: 1807820917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 490
+        width: 110
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b1cd469d21ff48bd500f48d0949c4
+      internalID: 902504047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 556
+        width: 131
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e52b995a27ae3408035c75703e2397
+      internalID: 877401480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_30
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 549
+        width: 122
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2109961516d83844f917a477ecf234d7
+      internalID: -1552985314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_31
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 676
+        width: 183
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29eedd9c48d614ea4e0f585f2d7145
+      internalID: 1864549535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_32
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 678
+        width: 168
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1222d850ceced8040947f006a3513135
+      internalID: -1104828541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Beak_HR_
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 680
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607217f73f21bbe46a0437bba8f2c283
+      internalID: 1133535417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyelids_HR_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 693
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea345a87d4abef4a823381d5b348619
+      internalID: -1677529939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyelids_HR_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 675
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e11ed40d93c3c46a051f5a27452007
+      internalID: 494466040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyelids_HR_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 629
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f9ce2eec986ca44967407586d86642
+      internalID: 1733816510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_37
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 549
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cefa15b5ae1da6418fbded3581bafff
+      internalID: 432028813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_38
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 549
+        width: 90
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32683b245ee4d004c980d3940a4a0f54
+      internalID: -468642098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_39
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 550
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c7d49481ae90848938768d995534af
+      internalID: 679264768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyelids_HR_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 597
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828a1aa08397b3a48a7783b20dd0439f
+      internalID: 953081128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Samurai_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 168
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875008aac589d22449d1b784868f96ea
+      internalID: -403334136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyelids_HR_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 563
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc98a72d83f571b459cef2e69330afc4
+      internalID: -1548944175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyeball_HR_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 529
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40193a7ba471f7545a613b2e536c344f
+      internalID: -45159086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 364
+        width: 142
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595daff2d8139fb4789f7095f125c5ff
+      internalID: -1251087632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_47
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 364
+        width: 146
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab03d1a67bc08b47946e429fd4d1778
+      internalID: -637197804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_48
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 364
+        width: 105
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f62fef9e98148d44a2af635d067520e
+      internalID: -1290302983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_49
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 364
+        width: 86
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d259924f0bec6a4b9a4d6fd0a0e92bf
+      internalID: -50197560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyelids_HR_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 495
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27426d5eeba763042b74be8cd242849a
+      internalID: 2045636467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_51
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 450
+        width: 149
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12916445be0cb5f45b946df088591e7d
+      internalID: -3019145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Tail_HR_0
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 448
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d3048cc4a3c3846a1d647ca79cde8e
+      internalID: 330223517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_54
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 186
+        width: 112
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b37cb9988454a34c93093b556031346
+      internalID: 1145063121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Tail_HR_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 390
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d43c6a140932a546a1374ca15679280
+      internalID: 1395870764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyebrow_HR_0
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 417
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b1a3155129096478c5b95cd36a8ef1
+      internalID: -1821239125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyebrow_HR_1
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 393
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8efb7d69c8a6fb428faaaca75da1603
+      internalID: 780432480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyebrow_HR_2
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 366
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5193b453bc6f74d42becf85ea8a274f5
+      internalID: 536495914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyebrow_HR_3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 341
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63fb7ab6bb434d4087057c7accc6630
+      internalID: 1379653994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyebrow_HR_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 341
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb2ad712f03dc49a67d6a2efa071fa
+      internalID: -1047354587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Eyebrow_HR_5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 342
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55a68a2b693acf4eb291850868c1e4b
+      internalID: 631307363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_66
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 184
+        width: 106
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf3be06b9bdea2428d49f4e83a8abad
+      internalID: 1450239514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_67
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 318
+        width: 102
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc2615880b781a46813b8d1b01fd9eb
+      internalID: 1192392999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_68
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 186
+        width: 92
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd52afa0d6a1db84e8023fe268356331
+      internalID: 1361654881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Knight_HR_Class_0_0
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 187
+        width: 175
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a4674887fd7664090d497d1084b2c2
+      internalID: 1801434126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_70
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 184
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2024dfe653c854dbfd17a30726dd6e
+      internalID: -1052375493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeb57129e7e84a4cb4682d3ba38d6d9
+      internalID: 2008621238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_72
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 212
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e1e2d4a9d8a3d4193df7088be6f8ea
+      internalID: -2094180995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_74
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1
+        width: 204
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411b54c473526c543ad4eb9618892761
+      internalID: 792732837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_75
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 125
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444ed6dce3f265c4eba588756dd010d6
+      internalID: -310492262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_15
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 895
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900fc5de225f7124fbc35efdd5a40d40
+      internalID: -1303633605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red_Beak_HR_3
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 847
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069df12d55ce79e4db6d87f49c5f65c9
+      internalID: -1410884130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_41
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 548
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3519c97c8d3cf44db38da6b393db6d1
+      internalID: 250495575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_57
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 364
+        width: 132
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ba6d80f5a3d7f4ebc09804c85fcb09
+      internalID: -1277696424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 210
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e4a7494a43c6c4f9cf30f18b1ef3f5
+      internalID: 1838254454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_73
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1
+        width: 212
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85b12be913df3247ae488852f966b74
+      internalID: 1731088794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedBird_Atlas_01_HR_76
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5157c40f286eaef43bfc7ae0cb94fb00
+      internalID: 509117423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eab1195c95eb8d34a917097d3a746daa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RedBird_Atlas_01_HR_10: 2003609364
+      RedBird_Atlas_01_HR_11: 651585155
+      RedBird_Atlas_01_HR_12: 544660145
+      RedBird_Atlas_01_HR_13: -498100802
+      RedBird_Atlas_01_HR_14: -494198313
+      RedBird_Atlas_01_HR_15: -1303633605
+      RedBird_Atlas_01_HR_16: -889156936
+      RedBird_Atlas_01_HR_17: 2037403064
+      RedBird_Atlas_01_HR_18: -327899510
+      RedBird_Atlas_01_HR_2: -1352997499
+      RedBird_Atlas_01_HR_23: 718002361
+      RedBird_Atlas_01_HR_24: -781714209
+      RedBird_Atlas_01_HR_26: 1921352548
+      RedBird_Atlas_01_HR_28: 902504047
+      RedBird_Atlas_01_HR_29: 877401480
+      RedBird_Atlas_01_HR_30: -1552985314
+      RedBird_Atlas_01_HR_31: 1864549535
+      RedBird_Atlas_01_HR_32: -1104828541
+      RedBird_Atlas_01_HR_37: 432028813
+      RedBird_Atlas_01_HR_38: -468642098
+      RedBird_Atlas_01_HR_39: 679264768
+      RedBird_Atlas_01_HR_40: -1959906095
+      RedBird_Atlas_01_HR_41: 250495575
+      RedBird_Atlas_01_HR_46: -1251087632
+      RedBird_Atlas_01_HR_47: -637197804
+      RedBird_Atlas_01_HR_48: -1290302983
+      RedBird_Atlas_01_HR_49: -50197560
+      RedBird_Atlas_01_HR_51: -3019145
+      RedBird_Atlas_01_HR_53: 1820667056
+      RedBird_Atlas_01_HR_54: 1145063121
+      RedBird_Atlas_01_HR_55: -1549040379
+      RedBird_Atlas_01_HR_57: -1277696424
+      RedBird_Atlas_01_HR_59: 1183770084
+      RedBird_Atlas_01_HR_6: -1562498
+      RedBird_Atlas_01_HR_61: 1838254454
+      RedBird_Atlas_01_HR_66: 1450239514
+      RedBird_Atlas_01_HR_67: 1192392999
+      RedBird_Atlas_01_HR_68: 1361654881
+      RedBird_Atlas_01_HR_70: -1052375493
+      RedBird_Atlas_01_HR_71: 2008621238
+      RedBird_Atlas_01_HR_72: -2094180995
+      RedBird_Atlas_01_HR_73: 1731088794
+      RedBird_Atlas_01_HR_74: 792732837
+      RedBird_Atlas_01_HR_75: -310492262
+      RedBird_Atlas_01_HR_76: 509117423
+      RedBird_Atlas_01_HR_9: -1711231955
+      Red_Beak_HR_: 1133535417
+      Red_Beak_HR_0: 988108377
+      Red_Beak_HR_1: 112874292
+      Red_Beak_HR_2: 2024863883
+      Red_Beak_HR_3: -1410884130
+      Red_Eye_HR_0: -929058811
+      Red_Eyeball_HR_0: -45159086
+      Red_Eyeball_HR_1: 1807820917
+      Red_Eyebrow_HR_0: -1821239125
+      Red_Eyebrow_HR_1: 780432480
+      Red_Eyebrow_HR_2: 536495914
+      Red_Eyebrow_HR_3: 1379653994
+      Red_Eyebrow_HR_4: -1047354587
+      Red_Eyebrow_HR_5: 631307363
+      Red_Eyelids_HR_0: -1292727827
+      Red_Eyelids_HR_1: -1677529939
+      Red_Eyelids_HR_2: 494466040
+      Red_Eyelids_HR_3: 1733816510
+      Red_Eyelids_HR_4: 953081128
+      Red_Eyelids_HR_5: 1764008342
+      Red_Eyelids_HR_6: 1995436271
+      Red_Eyelids_HR_7: -1548944175
+      Red_Eyelids_HR_8: 2045636467
+      Red_Knight_HR_Class_0_0: 1801434126
+      Red_Knight_HR_Class_0_1: -1990972084
+      Red_Knight_HR_Class_1_1: -162562086
+      Red_Samurai_0: -403334136
+      Red_Shield_HR_0: 1381926902
+      Red_Tail_HR_0: 330223517
+      Red_Tail_HR_1: 1395870764
+      Red_Weapon_HR_0: 71353547
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
