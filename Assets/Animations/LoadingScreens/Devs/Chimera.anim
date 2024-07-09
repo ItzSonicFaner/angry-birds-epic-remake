@@ -158,7 +158,7 @@ AnimationClip:
   m_Events:
   - time: 1.3333334
     functionName: LoadScene
-    data: GameTest
+    data: Map
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 1

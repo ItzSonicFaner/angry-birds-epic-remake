@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class AnimateBtn : MonoBehaviour
@@ -16,5 +17,10 @@ public class AnimateBtn : MonoBehaviour
     {
         Animator animator = GetComponent<Animator>();
         animator.SetBool("stillPressed", false);
+    }
+
+    public void loadScene(string sceneName)
+    {
+        SceneManager.LoadScene(sceneName);
     }
 }

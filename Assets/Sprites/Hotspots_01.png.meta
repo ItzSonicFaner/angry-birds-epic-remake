@@ -1,11 +1,9 @@
 fileFormatVersion: 2
 guid: 3eea1fbeed621834f9cdbfc47a0fd208
-timeCreated: 1720120511
-licenseType: Free
 TextureImporter:
-  serializedVersion: 4
-  name:
-  fileIDToRecycleName: {}
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -13,6 +11,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -20,7 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -28,58 +33,287 @@ TextureImporter:
   textureFormat: 47
   maxTextureSize: 2048
   textureSettings:
-    filterMode: 1
+    serializedVersion: 2
+    filterMode: 0
     aniso: 0
     mipBias: 0
-    wrapMode: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: LevelSpotBottom
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 458
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53efcfa8231fb834c89a87fd6f8beb0a
+      internalID: -1430279591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSpotTop_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 343
+        width: 39
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab967c1a3beca3418219b48d4a2b71d
+      internalID: -1125530723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelSpotTop_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 347
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a55fa6ae2b9541b82d9a404e210aa
+      internalID: 433764903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteFlagDef_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30441d91f3a20924389837b3cd9e228b
+      internalID: -1973834077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteFlagDef_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 54
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f9b0a25bcc15a4fab08c86e9f364a5
+      internalID: -708965381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CompleteFlagDef_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 108
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728ae75e5a724954aaa72f5b60126448
+      internalID: 447606778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
-  spritePackingTag:
-  output:
-    textureImportInstructions:
-      compressedFormat: 0
-      uncompressedFormat: 0
-      desiredFormat: 0
-      usageMode: 0
-      colorSpace: 0
-      width: 0
-      height: 0
-      compressionQuality: 0
-    sourceTextureInformation:
-      width: 0
-      height: 0
-      doesTextureContainAlpha: 0
-      sourceWasHDR: 0
-    importInspectorWarnings:
-  userData:
-  assetBundleName:
-  assetBundleVariant:
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CompleteFlagDef_0: -1973834077
+      CompleteFlagDef_1: -708965381
+      CompleteFlagDef_2: 447606778
+      Hotspots_01_1: 1700997214
+      Hotspots_01_10: -1484814246
+      Hotspots_01_11: -1776461128
+      Hotspots_01_12: 2046765335
+      Hotspots_01_13: 2134809186
+      Hotspots_01_14: -646678965
+      Hotspots_01_15: -1236547592
+      Hotspots_01_16: 1884736723
+      Hotspots_01_17: -396813951
+      Hotspots_01_18: 247487687
+      Hotspots_01_19: -1512146275
+      Hotspots_01_2: -1702644599
+      Hotspots_01_20: -574301229
+      Hotspots_01_21: 849005605
+      Hotspots_01_22: -328898351
+      Hotspots_01_23: -966162545
+      Hotspots_01_24: 323873900
+      Hotspots_01_25: -53447777
+      Hotspots_01_26: 1399618521
+      Hotspots_01_27: 713169139
+      Hotspots_01_28: 1303949314
+      Hotspots_01_29: 2023850163
+      Hotspots_01_3: 573917755
+      Hotspots_01_30: -1449611681
+      Hotspots_01_31: 887804471
+      Hotspots_01_32: 1333929017
+      Hotspots_01_33: -789901511
+      Hotspots_01_34: 862349307
+      Hotspots_01_35: -1377668613
+      Hotspots_01_36: 883780423
+      Hotspots_01_37: 1632403408
+      Hotspots_01_38: 1316467052
+      Hotspots_01_39: 288421620
+      Hotspots_01_4: -1205123027
+      Hotspots_01_40: 1266422441
+      Hotspots_01_41: -1998174993
+      Hotspots_01_42: 1840606062
+      Hotspots_01_43: -162097807
+      Hotspots_01_44: 1839356890
+      Hotspots_01_45: 71767254
+      Hotspots_01_46: 666476613
+      Hotspots_01_47: -268414947
+      Hotspots_01_48: 318341077
+      Hotspots_01_6: 459213260
+      Hotspots_01_7: -478991583
+      Hotspots_01_8: 712913292
+      Hotspots_01_9: -1159370489
+      LevelSpotBottom: -1430279591
+      LevelSpotTop_0: -1125530723
+      LevelSpotTop_1: 433764903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

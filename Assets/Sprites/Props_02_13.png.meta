@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 2
+    filterMode: 0
     aniso: 0
     mipBias: 0
     wrapU: 1
@@ -815,6 +815,174 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Sticks_0
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62a5a0eceb15084987fa244f9278bd1
+      internalID: -15937952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sticks_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 57
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0823bc81b8ef448944c9d77eb3c8d8
+      internalID: -1285270640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sticks_2
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 98
+        width: 27
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6e94bbd8d9e314180197fbaf66adf9
+      internalID: -1179784369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sticks_3
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 183
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4417c15fbfde52438ce83e7fdbbb622
+      internalID: -1473655061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sticks_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 997
+        width: 128
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a88fa4370d1cb4c8ee27597dd1d34c
+      internalID: 502392757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sticks_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1002
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7747c41a935bc64cba22397aac106c8
+      internalID: 1121300243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sticks_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 934
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d311c654ac12244c9c14c9a0c9d1828
+      internalID: 1356899685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sticks_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 957
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1283987fc9be82419b223e043cd2fc5
+      internalID: 1941663996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -857,6 +1025,14 @@ TextureImporter:
       BigTree_7: -1773104657
       BigTree_8: -1978027660
       BigTree_9: 1414669045
+      Sticks_0: -15937952
+      Sticks_1: -1285270640
+      Sticks_2: -1179784369
+      Sticks_3: -1473655061
+      Sticks_4: 502392757
+      Sticks_5: 1356899685
+      Sticks_6: 1121300243
+      Sticks_7: 1941663996
       StoneRock_0: -1693347446
       StoneRock_1: 1006286309
   mipmapLimitGroupName: 

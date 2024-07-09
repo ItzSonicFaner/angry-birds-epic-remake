@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 2
+    filterMode: 0
     aniso: 0
     mipBias: 0
     wrapU: 1
@@ -635,7 +635,7 @@ TextureImporter:
         width: 108
         height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -656,7 +656,7 @@ TextureImporter:
         width: 4
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -677,7 +677,7 @@ TextureImporter:
         width: 33
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -698,7 +698,7 @@ TextureImporter:
         width: 8
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -706,6 +706,1413 @@ TextureImporter:
       bones: []
       spriteID: 29fbe6acffb5b634eb14bc8cad78d07c
       internalID: 779975865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_0
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3
+        width: 118
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5672d7c62d4a3459d515fc158e629b
+      internalID: 516870031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_1
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 32
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b52bd82a3c2c24cbb151495ac0d500
+      internalID: 1811823981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 42
+        width: 14
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdd11af1ee30b044b7e0600aea41466
+      internalID: 1629538723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_3
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 69
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeeadec8a60a6f409b4e919104bd918
+      internalID: 1630068886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 91
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501468576b9c8034cab3058c72564a74
+      internalID: 1090345820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 54
+        width: 42
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea75868f35e287f4ea6b7f8a0784c386
+      internalID: -1699377965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 107
+        width: 44
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28b9fa668a9cb8479e9e971a5f328c2
+      internalID: 278105920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 188
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0016b167b86e714684eb28acdd4083e
+      internalID: 799951571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 219
+        width: 63
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f416259d7a137d4fad9a8157d571bdd
+      internalID: 603974142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 335
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eaf50f9a27c6b4b8f4f37983e9c4a0
+      internalID: 1485119375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 282
+        width: 14
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f024e4a438e7f945848f82b268fb3ed
+      internalID: -31887865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_0
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 232
+        width: 77
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1394bd93560120449123fc45689c3b2
+      internalID: 1781725600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 372
+        width: 65
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637e31262aa5f7d46b3946e7027e600c
+      internalID: 1013545266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 500
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd9c20d5d263ed41b5b54b33b80bd51
+      internalID: -1560580119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 270
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274c0b0b471b634469da7052ed35d41b
+      internalID: -649211986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 242
+        width: 113
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d728383b7d82db4380da7992b897759
+      internalID: -1703440050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 242
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d03ce89cd4ea94eba09a8311d48f08
+      internalID: -1615179679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 264
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164ed294c5708354e8ca86822c8db049
+      internalID: 2036650645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 160
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdd8a27ea8dd354588b3d2500898c3d
+      internalID: 1550464591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 219
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744e68c72aec0254ab948a3def48dab0
+      internalID: -962777427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 206
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50343304d5df8c409f60412d5f4c2c3
+      internalID: -1542033483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 228
+        width: 58
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0132e7fd18f336641ac3a98866c63148
+      internalID: -485251478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 522
+        width: 165
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1042d59620e7303418f1dc43308d9091
+      internalID: 47187289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 477
+        width: 111
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ceff30532433f4292e5c7d48f1a2c9
+      internalID: -1880306840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 501
+        width: 8
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c868940e8e4f98a4ca565747e6dae6b1
+      internalID: -1768106170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 522
+        width: 14
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c2f43618133f944a707ae12d7da4c8
+      internalID: -42261842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 605
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2c184a9917f5b41b07d60483af22b9
+      internalID: -684579731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 631
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e51a76d32cd6394383ac12682f4dcff
+      internalID: -1103976730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_17
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 631
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c0bab84b8f53648bcabc4c5cfc0cb6
+      internalID: -2085652613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 631
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54481088c7401c74182e297be1f59f83
+      internalID: 1488764262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 631
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e23e97450b73b4abccc661fcc4c993
+      internalID: -239732162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 624
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a60e2dd1e8c5945942dfc6bd2d1d38
+      internalID: 448242753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 395
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fa6435eb41afc48ac0a2dd770f5086
+      internalID: -278224111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 376
+        width: 89
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e574568798b1d9641a7c2ff9c093f7fe
+      internalID: -86837322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 378
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec7a68a1b623134d85d5a5e16001aaf
+      internalID: 1460969634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_24
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 383
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104ab0baf7213da4f9c78baf98b4822e
+      internalID: 1823681496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_11
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 701
+        width: 62
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edcc0cf6439f3847943941f9fddeac5
+      internalID: 82352480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 814
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337b8dea984a6e648aab1cbbc98afaa0
+      internalID: 311136842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 793
+        width: 2
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe1236fb90e19a4586cac82bba74208
+      internalID: -1914195433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 661
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61339ca0587e5d43a5903ebcfe6309c
+      internalID: 2136943788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 701
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2626675889d0f43a869a98dd735434
+      internalID: -354229990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 641
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bda119cd4af3e54885c62112b1aab8d
+      internalID: 1578826162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_17
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 625
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff03f3b5605c644409ca84937f6cfb80
+      internalID: 1951801626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 641
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b60a0dc66d1214d8f5a6eb98e605a6
+      internalID: -1396620026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_19
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 608
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb65e0902bf885349b9e0e7bc8d9844c
+      internalID: 1518793759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 572
+        width: 97
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc4d1f18084ca488bf32e3d24cc832
+      internalID: -2001027169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 506
+        width: 139
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80637919edf5cb45bb2b4b0146f99d9
+      internalID: -862113425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_22
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 492
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99838c4ae99649d42ba2f6c779316cd6
+      internalID: 1861989726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_23
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 572
+        width: 89
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12bf27ca4829d645867a8bf774ff010
+      internalID: 1134305779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 584
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50b0bee6cb20e248b17af33d4bf3f1c
+      internalID: -217207019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTree_25
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 553
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824883b6bda78de4c828d0b96356261f
+      internalID: -1582034999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_25
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 842
+        width: 147
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c9fa585ef7a58478538e39e4f585b4
+      internalID: 46559920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 877
+        width: 93
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccb75d74c277694d879b07a381fb22b
+      internalID: -1304183412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 803
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b565155c65b028b459d5ad3b702fa65e
+      internalID: 904783399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 820
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b4dd60946c6a7469d889aa6d70bad0
+      internalID: -339992715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 734
+        width: 20
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc118cbb39ef8140a23f8160cae6605
+      internalID: -147820561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_30
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 199
+        width: 206
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5890290fa1ca5e1418b8a89ec2f052ce
+      internalID: -2053473494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_31
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 225
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f7f2aaf699c8e44850630e75f63bba
+      internalID: -407640649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 68
+        width: 63
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e665154c4f7c28c408da25d2f51b3ccc
+      internalID: -2145273491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 175
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e52cae161e6564ca7296188ad251f1
+      internalID: -413652821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 160
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0470a5adb0d0788438e3c780fbf68df1
+      internalID: -1962245405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammock_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3
+        width: 52
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fef8e6a40c74a4995624e406f84170
+      internalID: -712602113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammock_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 118
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb868bb04e9939478eb60be221a62d5
+      internalID: 548687204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammock_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 160
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d600464d85e7eb498da26fce01833b6
+      internalID: 266854193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammock_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 160
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d23d667a7a0b749b9f6ff63cb80933
+      internalID: -1282921332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammock_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 151
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e8f1641a5b196419eb7c99ab256111
+      internalID: -1793675945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hammock_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 23
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd5b453f404f124bbab3ea1bfb77ef0
+      internalID: -803736258
       vertices: []
       indices: 
       edges: []
@@ -728,6 +2135,67 @@ TextureImporter:
       BigTreeShadow_4: 1493851171
       BlueFlower_0: 1770774551
       BlueFlower_1: -1972592383
+      CocountTreePetals_0: 1781725600
+      CocountTreePetals_1: 1013545266
+      CocountTreePetals_10: -485251478
+      CocountTreePetals_11: 47187289
+      CocountTreePetals_12: -1880306840
+      CocountTreePetals_13: -1768106170
+      CocountTreePetals_14: -42261842
+      CocountTreePetals_15: -684579731
+      CocountTreePetals_16: -1103976730
+      CocountTreePetals_17: -2085652613
+      CocountTreePetals_18: 1488764262
+      CocountTreePetals_19: -239732162
+      CocountTreePetals_2: -1560580119
+      CocountTreePetals_20: 448242753
+      CocountTreePetals_21: -278224111
+      CocountTreePetals_22: -86837322
+      CocountTreePetals_23: 1460969634
+      CocountTreePetals_24: 1823681496
+      CocountTreePetals_25: 46559920
+      CocountTreePetals_26: -1304183412
+      CocountTreePetals_27: 904783399
+      CocountTreePetals_28: -339992715
+      CocountTreePetals_29: -147820561
+      CocountTreePetals_3: -649211986
+      CocountTreePetals_30: -2053473494
+      CocountTreePetals_31: -407640649
+      CocountTreePetals_32: -2145273491
+      CocountTreePetals_33: -413652821
+      CocountTreePetals_34: -1962245405
+      CocountTreePetals_4: -1703440050
+      CocountTreePetals_5: -1615179679
+      CocountTreePetals_6: 2036650645
+      CocountTreePetals_7: 1550464591
+      CocountTreePetals_8: -962777427
+      CocountTreePetals_9: -1542033483
+      CocountTree_0: 516870031
+      CocountTree_1: 1811823981
+      CocountTree_10: 1485119375
+      CocountTree_11: 1842088480
+      CocountTree_12: 311136842
+      CocountTree_13: -1914195433
+      CocountTree_14: 2136943788
+      CocountTree_15: -354229990
+      CocountTree_16: 1578826162
+      CocountTree_17: 1951801626
+      CocountTree_18: -1396620026
+      CocountTree_19: 1518793759
+      CocountTree_2: 1629538723
+      CocountTree_20: -2001027169
+      CocountTree_21: -862113425
+      CocountTree_22: 1861989726
+      CocountTree_23: 1134305779
+      CocountTree_24: -217207019
+      CocountTree_25: -1582034999
+      CocountTree_3: 1630068886
+      CocountTree_4: 1090345820
+      CocountTree_5: -1699377965
+      CocountTree_6: 278105920
+      CocountTree_7: 799951571
+      CocountTree_8: 603974142
+      CocountTree_9: -31887865
       DragonFruit_0: -1186718882
       DragonFruit_1: 1597877826
       DragonFruit_2: 764508117
@@ -736,6 +2204,12 @@ TextureImporter:
       Grass_1: -1761781768
       Grass_2: 1044718591
       Grass_3: -1010573824
+      Hammock_0: -712602113
+      Hammock_1: 548687204
+      Hammock_2: 266854193
+      Hammock_3: -1282921332
+      Hammock_4: -1793675945
+      Hammock_5: -803736258
       RedFlower_0: -1501340145
       RedFlower_1: 1260701644
       Stone_0: -1976903048
