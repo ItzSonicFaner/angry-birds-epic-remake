@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 2
+    filterMode: 1
     aniso: 4
     mipBias: 0
     wrapU: 1
@@ -152,7 +152,7 @@ TextureImporter:
         width: 50
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -173,7 +173,7 @@ TextureImporter:
         width: 50
         height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -181,6 +181,69 @@ TextureImporter:
       bones: []
       spriteID: 1580c4acc2554044b9a353ef46b26f71
       internalID: -1541335094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: News_Background
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 369
+        width: 290
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6dd711d32ac84ea64739952ecbcce
+      internalID: 600639946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewsIcon
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 62
+        width: 138
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32c1e90556886245a3afd06099b5928
+      internalID: 1617185242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NestIcon
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 798
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbf8caa860c3ec46b4e4b347db575fe
+      internalID: -1536875420
       vertices: []
       indices: 
       edges: []
@@ -197,6 +260,9 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       MapIcon: -1203311726
+      NestIcon: -1536875420
+      NewsIcon: 1617185242
+      News_Background: 600639946
       SoundDisabledIcon: -1541335094
       SoundEnabledIcon: 2141841036
   mipmapLimitGroupName: 

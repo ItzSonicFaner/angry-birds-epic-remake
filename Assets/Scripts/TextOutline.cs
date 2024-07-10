@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
 
-public class CustomOutline: Shadow
+public class TextOutline : Shadow
 {
     [Range(0, 15)]
     public float m_size = 3.0f;

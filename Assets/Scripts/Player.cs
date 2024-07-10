@@ -27,7 +27,6 @@ public class Player : MonoBehaviour
     LineRenderer lineRenderer;
     bool isDragging = false;
     bool isCompleted = false;
-    bool isPressed = false;
 
     void Awake()
     {
@@ -80,8 +79,6 @@ public class Player : MonoBehaviour
                         circle.GetComponent<Renderer>().material.SetColor("_TargetColor", redClr);
                         selectingCircle.GetComponent<Renderer>().material.SetColor("_TargetColor", redClr);
 
-                        isPressed = false;
-
                         if (!enemiesArray.Contains(enemy))
                         {
                             enemiesArray.Add(enemy);
@@ -131,8 +128,6 @@ public class Player : MonoBehaviour
 
                         circle.GetComponent<Renderer>().material.SetColor("_TargetColor", greenClr);
                         selectingCircle.GetComponent<Renderer>().material.SetColor("_TargetColor", greenClr);
-
-                        isPressed = true;
                     }
                     else if (colliderAPlr != null && colliderAPlr.OverlapPoint(mouseWorldPosition) && player != gameObject)
                     {
@@ -147,8 +142,6 @@ public class Player : MonoBehaviour
 
                         circle.GetComponent<Renderer>().material.SetColor("_TargetColor", greenClr);
                         selectingCircle.GetComponent<Renderer>().material.SetColor("_TargetColor", greenClr);
-
-                        isPressed = false;
                     }
                     else
                     {
@@ -166,8 +159,6 @@ public class Player : MonoBehaviour
                         selectingCircle.GetComponent<Renderer>().material.SetColor("_TargetColor", lBlueClr);
 
                         lineRenderer.SetPosition(1, new Vector3(mouseWorldPosition.x, mouseWorldPosition.y, 0.0f));
-
-                        isPressed = false;
                     }
                 }
             }
@@ -193,15 +184,16 @@ public class Player : MonoBehaviour
         }
     }
 
+    void OnMouseUpAsButton()
+    {
+        hasShield = true;
+    }
+
     void OnMouseUp()
     {
         if (currentCharacter != null && enemiesArray.Count > 0)
         {
             Attack();
-        }
-        else if (isPressed)
-        {
-            hasShield = true;
         }
 
         isCompleted = false;

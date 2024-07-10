@@ -8,10 +8,15 @@ public class DevsLoadingScreen : MonoBehaviour
     [Header("Loading")]
     public GameObject gameObj;
 
-    public void DisableGameobj()
+    public void EnableGameobj()
     {
         gameObject.SetActive(false);
         gameObj.SetActive(true);
+    }
+
+    public void DisableGameobj()
+    {
+        gameObj.SetActive(false);
     }
 
     public void DisableCurObj()

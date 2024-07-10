@@ -522,7 +522,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BigTreeShadow_0
+      name: CocountTreeShadow_0
       rect:
         serializedVersion: 2
         x: 0
@@ -543,7 +543,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BigTreeShadow_1
+      name: CocountTreeShadow_1
       rect:
         serializedVersion: 2
         x: 36
@@ -564,7 +564,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BigTreeShadow_2
+      name: CocountTreeShadow_2
       rect:
         serializedVersion: 2
         x: 36
@@ -2117,6 +2117,405 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Cocount_0
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 896
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e364ac6f9ffcfcf4f9a7c4ab48959747
+      internalID: -2123818920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocount_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 881
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff61f08ca3445540bf88a555e42ab62
+      internalID: -2050262941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cocount_2
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 917
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4b891cb1d79c4fb077067f2cbdd8d
+      internalID: 62762148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_35
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 379
+        width: 123
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d2fb8ac86fffb49b4430b52c0688ee
+      internalID: 748627002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_36
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 437
+        width: 88
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f3833b382f3ff44b0e8f4cf40f70d5
+      internalID: -220658912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_37
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 233
+        width: 72
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0955e1cb3d362d4da001904da62e7cf
+      internalID: 867071260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_38
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 298
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5035865563af6754a9d6d0138c81e768
+      internalID: -1835991531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_39
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 352
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e09127b3a91c44996c84d3b7ee882a
+      internalID: 2064905428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_40
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 379
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9552daa945708f42b4e0d6842b03b51
+      internalID: 925257624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_41
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 379
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a8f347d806ff741835a6ee7f06b0b4
+      internalID: -1756497698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_42
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 379
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0316676cf5d5e4499b757dfdd02595
+      internalID: 115240433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_43
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 404
+        width: 13
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708dce5fb2fbed24495c0d5c56875330
+      internalID: 580836913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CocountTreePetals_44
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 406
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6ce5f30288338499561524f645c1c1
+      internalID: -1088208369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 214
+        width: 82
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d07bfca37ccfc478fd391fb764b2b3
+      internalID: 45176909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 346
+        width: 171
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993b586c0f959d34a96b05f24b89a435
+      internalID: -535665381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_01_15_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 328
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7f5142a90a588468fe2369b8b1bbbb
+      internalID: 1803798574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 279
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc6a554a2796b74a826f8180a8d176f
+      internalID: 446786380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 264
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2d0fd75da00a649acf4d8e94f5d0af
+      internalID: 817263496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rock_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 332
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f309213de8cbf24dad66f3996c04d92
+      internalID: 1886767144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -2128,9 +2527,6 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BigTreeShadow_0: -598565734
-      BigTreeShadow_1: -521771648
-      BigTreeShadow_2: 1727131964
       BigTreeShadow_3: 461053937
       BigTreeShadow_4: 1493851171
       BlueFlower_0: 1770774551
@@ -2164,12 +2560,28 @@ TextureImporter:
       CocountTreePetals_32: -2145273491
       CocountTreePetals_33: -413652821
       CocountTreePetals_34: -1962245405
+      CocountTreePetals_35: 748627002
+      CocountTreePetals_36: -220658912
+      CocountTreePetals_37: 867071260
+      CocountTreePetals_38: -1835991531
+      CocountTreePetals_39: 2064905428
       CocountTreePetals_4: -1703440050
+      CocountTreePetals_40: 925257624
+      CocountTreePetals_41: -1756497698
+      CocountTreePetals_42: 115240433
+      CocountTreePetals_43: 580836913
+      CocountTreePetals_44: -1088208369
       CocountTreePetals_5: -1615179679
       CocountTreePetals_6: 2036650645
       CocountTreePetals_7: 1550464591
       CocountTreePetals_8: -962777427
       CocountTreePetals_9: -1542033483
+      CocountTreeShadow_0: -598565734
+      CocountTreeShadow_1: -521771648
+      CocountTreeShadow_2: 1727131964
+      CocountTreeShadow_3: 438242438
+      CocountTreeShadow_4: 1723642730
+      CocountTreeShadow_5: -2061658969
       CocountTree_0: 516870031
       CocountTree_1: 1811823981
       CocountTree_10: 1485119375
@@ -2196,6 +2608,9 @@ TextureImporter:
       CocountTree_7: 799951571
       CocountTree_8: 603974142
       CocountTree_9: -31887865
+      Cocount_0: -2123818920
+      Cocount_1: -2050262941
+      Cocount_2: 62762148
       DragonFruit_0: -1186718882
       DragonFruit_1: 1597877826
       DragonFruit_2: 764508117
@@ -2210,8 +2625,14 @@ TextureImporter:
       Hammock_3: -1282921332
       Hammock_4: -1793675945
       Hammock_5: -803736258
+      Props_01_15_0: 1803798574
       RedFlower_0: -1501340145
       RedFlower_1: 1260701644
+      Rock_0: 45176909
+      Rock_1: 446786380
+      Rock_2: 817263496
+      Rock_3: -535665381
+      Rock_4: 1886767144
       Stone_0: -1976903048
       Stone_1: 1204229103
       Stone_10: 552493375

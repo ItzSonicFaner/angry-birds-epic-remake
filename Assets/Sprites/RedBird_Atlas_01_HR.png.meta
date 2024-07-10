@@ -144,7 +144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_Eyelids_HR_6
+      name: Red_Hair_HR_1
       rect:
         serializedVersion: 2
         x: 164
@@ -294,7 +294,7 @@ TextureImporter:
       name: Red_Beak_HR_1
       rect:
         serializedVersion: 2
-        x: 768
+        x: 767
         y: 952
         width: 54
         height: 41
@@ -753,7 +753,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_Beak_HR_
+      name: Red_Beak_HR_4
       rect:
         serializedVersion: 2
         x: 953
@@ -795,7 +795,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_Eyelids_HR_2
+      name: Red_Hair_HR_0
       rect:
         serializedVersion: 2
         x: 180
@@ -816,7 +816,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_Eyelids_HR_3
+      name: Red_Eyelids_HR_2
       rect:
         serializedVersion: 2
         x: 180
@@ -900,7 +900,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_Eyelids_HR_4
+      name: Red_Eyelids_HR_3
       rect:
         serializedVersion: 2
         x: 180
@@ -942,7 +942,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_Eyelids_HR_7
+      name: Red_Eyelids_HR_4
       rect:
         serializedVersion: 2
         x: 171
@@ -1068,10 +1068,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Red_Eyelids_HR_8
+      name: Red_Eyelids_HR_6
       rect:
         serializedVersion: 2
-        x: 171
+        x: 170
         y: 495
         width: 31
         height: 30
@@ -1691,11 +1691,11 @@ TextureImporter:
       RedBird_Atlas_01_HR_75: -310492262
       RedBird_Atlas_01_HR_76: 509117423
       RedBird_Atlas_01_HR_9: -1711231955
-      Red_Beak_HR_: 1133535417
       Red_Beak_HR_0: 988108377
       Red_Beak_HR_1: 112874292
       Red_Beak_HR_2: 2024863883
       Red_Beak_HR_3: -1410884130
+      Red_Beak_HR_4: 1133535417
       Red_Eye_HR_0: -929058811
       Red_Eyeball_HR_0: -45159086
       Red_Eyeball_HR_1: 1807820917
@@ -1707,13 +1707,13 @@ TextureImporter:
       Red_Eyebrow_HR_5: 631307363
       Red_Eyelids_HR_0: -1292727827
       Red_Eyelids_HR_1: -1677529939
-      Red_Eyelids_HR_2: 494466040
-      Red_Eyelids_HR_3: 1733816510
-      Red_Eyelids_HR_4: 953081128
+      Red_Eyelids_HR_2: 1733816510
+      Red_Eyelids_HR_3: 953081128
+      Red_Eyelids_HR_4: -1548944175
       Red_Eyelids_HR_5: 1764008342
-      Red_Eyelids_HR_6: 1995436271
-      Red_Eyelids_HR_7: -1548944175
-      Red_Eyelids_HR_8: 2045636467
+      Red_Eyelids_HR_6: 2045636467
+      Red_Hair_HR_0: 494466040
+      Red_Hair_HR_1: 1995436271
       Red_Knight_HR_Class_0_0: 1801434126
       Red_Knight_HR_Class_0_1: -1990972084
       Red_Knight_HR_Class_1_1: -162562086
