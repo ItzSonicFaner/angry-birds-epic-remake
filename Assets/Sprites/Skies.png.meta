@@ -1,11 +1,9 @@
 fileFormatVersion: 2
 guid: 2c54d7aa0d1c3a64a8de423c8923f82b
-timeCreated: 1720120540
-licenseType: Free
 TextureImporter:
-  serializedVersion: 4
-  name:
-  fileIDToRecycleName: {}
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -13,6 +11,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -20,7 +20,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -28,58 +33,702 @@ TextureImporter:
   textureFormat: 4
   maxTextureSize: 2048
   textureSettings:
-    filterMode: 1
+    serializedVersion: 2
+    filterMode: 0
     aniso: 0
     mipBias: 0
-    wrapMode: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Skies_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddca53e0b91460f4798c52ddaea1232d
+      internalID: 612013603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc6d9e08b9fa4c45abc7891822b36ae
+      internalID: 537407193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d32fb869b04d44a96b93b957b5c570
+      internalID: 1057395497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150bef57f3fca3a4a94655b98ac4a9ab
+      internalID: 200595848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f2014e25fdc9040b36c59ae11e2eb1
+      internalID: -744429244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f94caf348a4c2d458c87107f6f261e5
+      internalID: 453492961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eff475751a98e34cadac945277dc338
+      internalID: 307996639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4565133eb40504ba62d057feba95b7
+      internalID: 115377268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e081d16cc17c5488569a188392dd1b
+      internalID: -1794192935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ac086aa3d89d2418e3bf1f88f96140
+      internalID: 1202291202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd799979d5508b43a590337d3f5f004
+      internalID: -1519010576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21c12f539f369f40acec234ac0eda23
+      internalID: -1954261130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b18eb4d1ccdbba4cbe38104cf6c659f
+      internalID: -1447695994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e26bda4a58b4574fad97297325caeb9
+      internalID: -270083617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682de73ce8bea4a4698978ecda408890
+      internalID: -1715988365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df28bd299d27834c8b930c574b29733
+      internalID: 1482525354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fb4cdf5cca49e4895a04aaf3798234
+      internalID: -440046489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64192e5f360748a4096e184beafec51f
+      internalID: -1245028501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b061b376e7159754ab007c28ef4c765b
+      internalID: -947411291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ce9bb6cafaedc4889df0ba946452c9
+      internalID: -1608218121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d92e68d3f01214c8f5b9363528d30d
+      internalID: 534070234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11948369f11673949ae1d9f82d82e2fe
+      internalID: -465397243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fc8d35cd6efb54aa024ecf9575e36b
+      internalID: 1245540511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99910f1a075bbf4aa4983f604b8cc86
+      internalID: -575169026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38daeec19c611b4ca47868d19320e6d
+      internalID: 645395262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8adc3ebf9ed204ca4132b0fdb9fa6f
+      internalID: -1809751830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skies_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 4
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967fc5bf8048dd040b380c4f145fa864
+      internalID: -1366449996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
-  spritePackingTag:
-  output:
-    textureImportInstructions:
-      compressedFormat: 0
-      uncompressedFormat: 0
-      desiredFormat: 0
-      usageMode: 0
-      colorSpace: 0
-      width: 0
-      height: 0
-      compressionQuality: 0
-    sourceTextureInformation:
-      width: 0
-      height: 0
-      doesTextureContainAlpha: 0
-      sourceWasHDR: 0
-    importInspectorWarnings:
-  userData:
-  assetBundleName:
-  assetBundleVariant:
+    physicsShape: []
+    bones: []
+    spriteID: 8b3ed2fcdb5dec74594bbd27673f826f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Skies_0: 612013603
+      Skies_1: 537407193
+      Skies_10: -1519010576
+      Skies_11: -1954261130
+      Skies_12: -1447695994
+      Skies_13: -270083617
+      Skies_14: -1715988365
+      Skies_15: 1482525354
+      Skies_16: -440046489
+      Skies_17: -1245028501
+      Skies_18: -947411291
+      Skies_19: -1608218121
+      Skies_2: 1057395497
+      Skies_20: 534070234
+      Skies_21: -465397243
+      Skies_22: 1245540511
+      Skies_23: -575169026
+      Skies_24: 645395262
+      Skies_25: -1809751830
+      Skies_26: -1366449996
+      Skies_3: 200595848
+      Skies_4: -744429244
+      Skies_5: 453492961
+      Skies_6: 307996639
+      Skies_7: 115377268
+      Skies_8: -1794192935
+      Skies_9: 1202291202
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -5,17 +5,18 @@ using UnityEngine.SceneManagement;
 
 public class LoadGame : MonoBehaviour
 {
-    [Header("Levels")]
+    [Header("Games")]
+    public GameObject birdAnimation;
     public string levelName;
 
-    public void loadLevel()
+    public void loadScene()
     {
-        SceneManager.LoadScene(levelName);
+        birdAnimation.GetComponent<DevsLoadingScreen>().sceneName = levelName;
+        birdAnimation.transform.parent.gameObject.SetActive(true);
     }
 
     void OnMouseUpAsButton()
     {
-        Debug.Log("Test");
-        loadLevel();
+        loadScene();
     }
 }

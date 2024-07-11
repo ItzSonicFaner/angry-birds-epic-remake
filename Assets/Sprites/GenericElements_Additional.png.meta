@@ -236,7 +236,7 @@ TextureImporter:
         width: 94
         height: 89
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -259,6 +259,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      GenericElements_Additional_0: -687366236
       MapIcon: -1203311726
       NestIcon: -1536875420
       NewsIcon: 1617185242

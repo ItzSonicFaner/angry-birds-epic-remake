@@ -15,20 +15,16 @@ public class MapCamera : MonoBehaviour
 
     void Update()
     {
-        if (Input.touchCount > 0)
+        if(Input.touchCount > 0 && Input.GetTouch(0).phase != TouchPhase.Moved)
         {
-            Touch touch = Input.GetTouch(0);
-            Vector3 touchVec3 = touch.position;
+            touchPos = Camera.main.ScreenToWorldPoint(Input.GetTouch(0).position);
+        }
+        else if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Moved)
+        {
+            Vector3 touchVec3 = Camera.main.ScreenToWorldPoint(Input.GetTouch(0).position);
             touchVec3.z = -10.0f;
 
-            if (touchVec3 != touchPos && touch.phase == TouchPhase.Moved)
-            {
-                virCamera.transform.position += touchPos - touchVec3;
-
-                return;
-            }
-
-            touchPos = touch.position;
+            virCamera.transform.position += touchPos - touchVec3;
         }
         else if (Input.GetMouseButtonDown(0))
         {

@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 0
     mipBias: 0
     wrapU: 1
@@ -1172,6 +1172,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Grass
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 142
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c7cf9329230e542b867d2ed6dd91e3
+      internalID: -2087047169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1217,6 +1238,7 @@ TextureImporter:
       BigTree_7: -1773104657
       BigTree_8: -1978027660
       BigTree_9: 1414669045
+      Grass: -2087047169
       Pineapple_0: 1529627773
       Pineapple_1: -224014090
       Pineapple_2: -408502881

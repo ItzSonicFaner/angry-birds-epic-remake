@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -11,9 +10,9 @@ public class Player : MonoBehaviour
     public int currentHealth;
     public int maxHealth;
     public int amountOfEnemiesToAttack;
-    public int reflectionPer;
     public bool hasShield;
     public bool massiveAttack;
+    public skillsArray[] skills;
 
     [Header("Enemies")]
     public List<GameObject> enemiesArray = new List<GameObject>();
@@ -22,7 +21,10 @@ public class Player : MonoBehaviour
     public GameObject circle;
     public GameObject selectingCircle;
     public Image healthFill;
+    public bool canAttack = true;
 
+    int turnsLeft;
+    int attackedTimes;
     GameObject currentCharacter;
     LineRenderer lineRenderer;
     bool isDragging = false;
@@ -38,11 +40,10 @@ public class Player : MonoBehaviour
     void Update()
     {
         currentHealth = Math.Clamp(currentHealth, 0, maxHealth);
-        reflectionPer = Math.Clamp(reflectionPer, 0, 100);
 
         healthFill.fillAmount = (float) currentHealth / (float) maxHealth;
 
-        if (isDragging)
+        if (isDragging && canAttack)
         {
             Vector3 mouseWorldPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             mouseWorldPosition.z = 0.0f;
@@ -58,7 +59,7 @@ public class Player : MonoBehaviour
                     Vector2 enemyScale = new Vector2(enemy.transform.localScale.x, enemy.transform.localScale.y);
                     Vector2 playerScale = new Vector2(transform.localScale.x, transform.localScale.y);
 
-                    lineRenderer.SetPosition(0, transform.localPosition);
+                    lineRenderer.SetPosition(0, selectingCircle.transform.localPosition);
 
                     Collider2D collider = enemy.GetComponent<Collider2D>();
                     Collider2D colliderPlr = GetComponent<Collider2D>();
@@ -186,7 +187,23 @@ public class Player : MonoBehaviour
 
     void OnMouseUpAsButton()
     {
-        hasShield = true;
+        for(int i = 0; i < skills.Length; i++)
+        {
+            if (skills[i].isCurrentSkill)
+            {
+                if (skills[i].skillGameobject != null)
+                {
+                    turnsLeft = skills[i].turnsLeft;
+                    skills[i].skillGameobject.SetActive(true);
+                    skills[i].currentryUsing = true;
+
+                    canAttack = false;
+
+                    circle.SetActive(false);
+                    lineRenderer.enabled = false;
+                }
+            }
+        }
     }
 
     void OnMouseUp()
@@ -196,11 +213,11 @@ public class Player : MonoBehaviour
             Attack();
         }
 
+        selectingCircle.SetActive(false);
+
         isCompleted = false;
         currentCharacter = null;
         isDragging = false;
-
-        selectingCircle.SetActive(false );
 
         Vector3 mouseWorldPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         mouseWorldPosition.z = 0.0f;
@@ -220,14 +237,62 @@ public class Player : MonoBehaviour
         enemiesArray.Clear();
 
         lineRenderer.SetPosition(1, new Vector3(transform.position.x, transform.position.y, 0.0f));
-        circle.transform.localPosition = new Vector3(-2.4f, -1.25f, 0.0f);
+        circle.transform.localPosition = new Vector3(transform.localPosition.x + 0.05f, transform.localPosition.y - 0.55f, 0.0f);
     }
 
     void Attack()
     {
+        canAttack = false;
+
+        circle.SetActive(false);
+        lineRenderer.enabled = false;
+
+        if (turnsLeft > 0)
+        {
+            turnsLeft--;
+
+            if(turnsLeft == 0)
+            {
+                for (int i = 0; i < skills.Length; i++)
+                {
+                    if (skills[i].isCurrentSkill)
+                    {
+                        if (skills[i].skillGameobject != null)
+                        {
+                            skills[i].skillGameobject.SetActive(false);
+                            skills[i].currentryUsing = false;
+                        }
+                    }
+                }
+            }
+        }
+
         for(int i = 0; i < enemiesArray.Count; i++)
         {
             enemiesArray[i].GetComponent<Enemy>().currentHealth -= damage;
         }
     }
+}
+
+[Serializable]
+public class skillsArray
+{
+    [Header("Skill")]
+    public string skillName;
+    [TextArea(5, 5)]
+    public string skillDescription;
+    public int turnsLeft;
+    public int defendPercentage;
+    public bool currentryUsing;
+    public bool isCurrentSkill;
+    public GameObject skillGameobject;
+    public enum skillType
+    {
+        shield,
+        multiAttack,
+        health,
+        explode,
+        stun
+    }
+    public skillType type;
 }

@@ -482,6 +482,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObj: {fileID: 1905877609}
+  sceneName: 
 --- !u!1 &434422404
 GameObject:
   m_ObjectHideFlags: 0
@@ -714,6 +715,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObj: {fileID: 0}
+  sceneName: 
 --- !u!1 &541055747
 GameObject:
   m_ObjectHideFlags: 0
@@ -730,7 +732,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &541055748
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -984,6 +986,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObj: {fileID: 0}
+  sceneName: Map
 --- !u!1 &971986119
 GameObject:
   m_ObjectHideFlags: 0
@@ -1237,6 +1240,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameObj: {fileID: 0}
+  sceneName: 
 --- !u!1 &2004946122
 GameObject:
   m_ObjectHideFlags: 0

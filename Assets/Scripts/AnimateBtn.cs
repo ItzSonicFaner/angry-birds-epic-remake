@@ -6,6 +6,10 @@ using UnityEngine.UI;
 
 public class AnimateBtn : MonoBehaviour
 {
+    [Header("Games")]
+    public GameObject birdAnimation;
+    public string levelName;
+
     public void onButtonDown()
     {
         Animator animator = GetComponent<Animator>();
@@ -19,8 +23,9 @@ public class AnimateBtn : MonoBehaviour
         animator.SetBool("stillPressed", false);
     }
 
-    public void loadScene(string sceneName)
+    public void loadScene()
     {
-        SceneManager.LoadScene(sceneName);
+        birdAnimation.GetComponent<DevsLoadingScreen>().sceneName = levelName;
+        birdAnimation.transform.parent.gameObject.SetActive(true);
     }
 }

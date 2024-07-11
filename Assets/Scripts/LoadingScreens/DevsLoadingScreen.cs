@@ -7,6 +7,7 @@ public class DevsLoadingScreen : MonoBehaviour
 {
     [Header("Loading")]
     public GameObject gameObj;
+    public string sceneName;
 
     public void EnableGameobj()
     {
@@ -24,8 +25,8 @@ public class DevsLoadingScreen : MonoBehaviour
         gameObject.SetActive(false);
     }
 
-    public void LoadScene(string name)
+    public void LoadScene()
     {
-        SceneManager.LoadScene(name);
+        SceneManager.LoadScene(sceneName);
     }
 }

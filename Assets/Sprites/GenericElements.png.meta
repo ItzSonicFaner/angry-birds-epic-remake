@@ -228,27 +228,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: LineSelect
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 858
-        width: 146
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83abaf307c2129e4fabd3093c4854db0
-      internalID: -434163520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: ContinueIcon
       rect:
         serializedVersion: 2
